@@ -3,11 +3,11 @@ https://boiling-dusk-01323-daa95854a71e.herokuapp.com/
 
 ### Client
   ## src
-     Actions
+      Actions
       - made http requests with the express side of the app
       - used redux to make dispatches to the frontend
 
-    Components
+      Components
       - responsible for all frontend components and navigation
       - Payments utilized Stripe Api
       - Surveys housed all of surveys frontend using ReduxForm
