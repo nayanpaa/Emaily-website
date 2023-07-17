@@ -1,7 +1,7 @@
 # Emaily-website
 https://boiling-dusk-01323-daa95854a71e.herokuapp.com/
 
-### Client
+### Client Folder
   ## src
       Actions
       - made http requests with the express side of the app
@@ -12,7 +12,7 @@ https://boiling-dusk-01323-daa95854a71e.herokuapp.com/
       - Payments utilized Stripe Api
       - Surveys housed all of surveys frontend using ReduxForm
 
-### Server
+### Server Folder
   ## config
       redirects keys based off of prod or dev
 
